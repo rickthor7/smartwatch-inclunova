@@ -72,7 +72,8 @@ export const SmartwatchFrame: React.FC<SmartwatchFrameProps> = ({
         alignItems: 'center',
         position: 'relative',
         userSelect: 'none',
-        margin: '1.5rem auto',
+        margin: '0 auto',
+        flexShrink: 0,
       }}
       className={isVibrating ? 'watch-vibrating' : ''}
     >

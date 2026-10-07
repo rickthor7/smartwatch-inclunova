@@ -201,9 +201,8 @@ export const LearnScreen: React.FC<LearnScreenProps> = ({
                 left: 0,
                 width: '100%',
                 height: '100%',
-                background: `conic-gradient(#EA580C 0% ${
-                  (lesson.visualData.numerator / lesson.visualData.denominator) * 100
-                }%, transparent ${(lesson.visualData.numerator / lesson.visualData.denominator) * 100}% 100%)`,
+                background: `conic-gradient(#EA580C 0% ${(lesson.visualData.numerator / lesson.visualData.denominator) * 100
+                  }%, transparent ${(lesson.visualData.numerator / lesson.visualData.denominator) * 100}% 100%)`,
                 opacity: 0.85,
               }}
             />
