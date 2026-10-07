@@ -104,7 +104,7 @@ export const QuizScreen: React.FC<QuizScreenProps> = ({
           🏆
         </div>
         <div style={{ fontSize: '16px', fontWeight: 900, color: isDarkMode ? '#FFFFFF' : '#1E293B' }}>
-          Hebat Sekali, Alya!
+          Hebat Sekali, Erik!
         </div>
         <div style={{ fontSize: '11px', color: isDarkMode ? '#94A3B8' : '#64748B' }}>
           Kamu menyelesaikan kuis pecahan dengan sempurna!

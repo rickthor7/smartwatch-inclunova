@@ -49,7 +49,7 @@ export const LESSONS: LearningLesson[] = [
     content: 'Bayangkan sebuah kue utuh yang dibagi menjadi 2 potong sama besar. 1 potong dinamakan 1/2 (setengah)!',
     visualType: 'fraction-bar',
     visualData: { numerator: 1, denominator: 2 },
-    audioScript: 'Halo Alya! Bayangkan sebuah kue utuh dibagi menjadi 2 potong sama besar. Satu potong bernilai satu per dua atau setengah.',
+    audioScript: 'Halo Erik! Bayangkan sebuah kue utuh dibagi menjadi 2 potong sama besar. Satu potong bernilai satu per dua atau setengah.',
   },
   {
     id: 2,
@@ -68,10 +68,10 @@ export const LESSONS: LearningLesson[] = [
     subtitle: 'Dua per Empat (2/4 = 1/2)',
     step: 3,
     totalSteps: 4,
-    content: 'Kalau Alya mengambil 2 potong dari 4 potong, jumlahnya sama besarnya dengan setengah kue utuh!',
+    content: 'Kalau Erik mengambil 2 potong dari 4 potong, jumlahnya sama besarnya dengan setengah kue utuh!',
     visualType: 'fraction-pizza',
     visualData: { numerator: 2, denominator: 4 },
-    audioScript: 'Kalau Alya mengambil dua potong dari empat potong, ternyata besarnya sama dengan setengah kue utuh!',
+    audioScript: 'Kalau Erik mengambil dua potong dari empat potong, ternyata besarnya sama dengan setengah kue utuh!',
   },
   {
     id: 4,
@@ -128,5 +128,5 @@ export const TEACHER_VOICE_MESSAGE = {
   role: 'Wali Kelas 3A - SD Inklusi Ceria',
   date: 'Hari ini, 07:50 WIB',
   duration: '0:14',
-  text: 'Halo Alya! Hebat sekali kamu sudah aktif belajar pagi ini. Jangan lupa selesaikan latihan pecahan di smartwatch kamu ya! Kalau ada kesulitan, tekan tombol suara untuk bertanya. Semangat!',
+  text: 'Halo Erik! Hebat sekali kamu sudah aktif belajar pagi ini. Jangan lupa selesaikan latihan pecahan di smartwatch kamu ya! Kalau ada kesulitan, tekan tombol suara untuk bertanya. Semangat!',
 };

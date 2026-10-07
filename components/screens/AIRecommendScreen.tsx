@@ -112,7 +112,7 @@ export const AIRecommendScreen: React.FC<AIRecommendScreenProps> = ({
             Latihan Pecahan Visual
           </div>
           <div style={{ fontSize: '10px', color: isDarkMode ? '#DDD6FE' : '#6B21A8', marginTop: '2px' }}>
-            Disesuaikan dengan tempo belajar Alya agar lebih mudah dipahami.
+            Disesuaikan dengan tempo belajar Erik agar lebih mudah dipahami.
           </div>
         </div>
 

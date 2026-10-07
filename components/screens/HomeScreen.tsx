@@ -165,7 +165,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
             INCLUNOVA OS
           </div>
           <div style={{ fontSize: '16px', fontWeight: 900, color: isDarkMode ? '#FFFFFF' : '#1E1B4B', lineHeight: 1.2, marginTop: '1px' }}>
-            Hai, Alya! ✨
+            Hai, Erik! ✨
           </div>
           <div style={{ fontSize: '10px', color: isDarkMode ? '#C7D2FE' : '#4338CA', marginTop: '2px', fontWeight: 500 }}>
             Siap berpetualang hari ini?
