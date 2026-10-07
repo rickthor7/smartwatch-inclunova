@@ -13,6 +13,10 @@
 
 *Dikembangkan dengan Next.js, dibungkus dalam frame fisik smartwatch interaktif lengkap dengan Digital Crown, simulasi Dual Battery, dan Multimodal Learning (TTS/STT).*
 
+<br/>
+
+<img src="./thumbnail.jpg" alt="INCLUNOVA Smartwatch Prototype Thumbnail" width="100%" style="border-radius: 16px;" />
+
 </div>
 
 ---
